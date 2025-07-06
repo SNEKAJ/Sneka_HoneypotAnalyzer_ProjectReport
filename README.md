@@ -35,7 +35,7 @@ I'm **Sneka Jeyaraman**, an aspiring cybersecurity analyst focused on offensive 
 
 - 🏢 Internship at: **Inlighn Tech**
 - 🛡️ Role: Offensive Cybersecurity Intern
-- 📅 Duration: 3 mkonths
+- 📅 Duration: 3 months
 
 ---
 
